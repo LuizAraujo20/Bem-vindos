@@ -1,5 +1,5 @@
 # Bem-vindos
-Boas vindas aos meu perfil!
+Boas vindas ao meu perfil!
 
 ## Um pouco de mim?
 Meu nome é **Luiz** , sou estudante de Engenharia de Software na Universidade Católica de Brasília. Já tive vários empregos, mas nenhuma carreira até agora. Uma vez que decidi começar numa área que sempre achei fascinante, a de desenvolvimento de Software.
